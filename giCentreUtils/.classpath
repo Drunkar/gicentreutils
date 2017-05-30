@@ -7,9 +7,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="p5v3libs/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="p5v3libs/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="p5v3libs/jogl-all-natives-linux-armv6hf.jar"/>
 	<classpathentry kind="lib" path="p5v3libs/jogl-all.jar"/>
-	<classpathentry kind="lib" path="p5v3libs/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="p5v3libs/gluegen-rt-natives-linux-armv6hf.jar"/>
 	<classpathentry kind="lib" path="p5v3libs/core.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
 	<classpathentry kind="output" path="bin"/>
